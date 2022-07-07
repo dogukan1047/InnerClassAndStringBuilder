@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputBase/InputBase.iml" filepath="$PROJECT_DIR$/InputBase/InputBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWithFirstDay.iml" filepath="$PROJECT_DIR$/JavaWithFirstDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClasses/StringClasses.iml" filepath="$PROJECT_DIR$/StringClasses/StringClasses.iml" />
+    </modules>
+  </component>
+</project>
